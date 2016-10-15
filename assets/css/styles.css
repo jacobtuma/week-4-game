@@ -1,0 +1,12 @@
+body {
+	background-image: url("../images/stardust.png");
+}
+
+.info {
+	margin: 0 80px;
+	font-size: 15px;
+}
+
+.gems {
+	margin: 0 20%;
+}
